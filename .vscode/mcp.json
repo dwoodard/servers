@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "my-mcp-server-8a1ef18a": {
+            "type": "stdio",
+            "command": "bash",
+            "args": [
+                "-c",
+                "ag"
+            ]
+        }
+    }
+}
